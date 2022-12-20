@@ -9,3 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `json-server --watch db.json`
 
+##
+![Capturar](https://user-images.githubusercontent.com/79387188/208677172-6b56d2b4-238b-4805-9fa0-4bbfc92ecfae.PNG)
